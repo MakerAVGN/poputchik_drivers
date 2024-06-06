@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "674584804485",
+    "firebase_url": "https://poputchik-7827e-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "poputchik-7827e",
+    "storage_bucket": "poputchik-7827e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674584804485:android:2f2c97b29e32c4ea617dec",
+        "android_client_info": {
+          "package_name": "com.example.poputchik"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiXB657JrmqwGVO3-Wy5t8jeNMeVZSr24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
